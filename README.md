@@ -13,3 +13,6 @@ If you want VS Code to open automatically for your files, you can set it as your
 ## Resources
 
 - [Development Tools](https://omarchy.org/manual/development-tools/)
+- [Omarchy Getting Started (official docs)](https://omarchy.org/manual/getting-started/)
+- [Omarchy Dual Boot Install (official docs)](https://omarchy.org/manual/dual-boot-install/)
+- [Dual Boot Omarchy and Windows 11 (Video)](https://www.youtube.com/watch?v=26GnlpsvaFw)
