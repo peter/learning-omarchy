@@ -1,5 +1,27 @@
 # Learning Omarchy
 
+## Keyboard Shortcuts
+
+TODO
+
+## AWS CLI
+
+```sh
+sudo pacman -S aws-cli-v2
+```
+
+## AWS SAM CLI
+
+```sh
+yay -S aws-sam-cli-bin
+```
+
+You may need to instruct SAM to map `host.docker.internal` to an IP:
+
+```sh
+--add-host host.docker.internal:172.17.0.1
+```
+
 ## VS Code
 
 Installation:
